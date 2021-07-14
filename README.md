@@ -1,91 +1,88 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
+<h1><img src="https://media1.tenor.com/images/a5e0c08ee337053b43f97961e8b25b0a/tenor.gif?itemid=9462745" width="60"/> Welcome to my humble abode!</h1>
 
+**Connect with me:**
 <p align="left">
-<a href="https://twitter.com/MairaAbhishek" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/twitter.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/abhishek-maira/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.instagram.com/abhishek_maira10/" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://open.spotify.com/user/8q058td4ynjeztfx5io86m5pt" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/spotify.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://marketplace.visualstudio.com/publishers/AbhishekMaira" target="_blank"><img height="30" src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/png/visual-studio.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:prasad.sonu786@gmail.com" target="_blank"><img height="30" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/Gmail-logo.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/purneswar-prasad/" target="_blank"><img height="30" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/Linkedin-logo-icon-png.png?raw=true"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
 <br>
 
-Hi, I'm [Abhishek Maira](https://www.abhishekmaira.com/), a web and app developer 👨🏻‍💻 from India. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products.I'm proud to say that **I can succesfully center an element with css.** Beside's Hacking stuff, I play chess ♘ and Fifa ⚽.
-I support Manchester United 👿 and Barcelona 😎.
+Hello, I'm **Purneswar Prasad**, a final year Electronics UG at NIT Rourkela, India. As a versatile person, I like to keep myself engaged with any new tech around. Currently I'm on my way to be a *Machine Learning Engineer* to create something impactful in the health and education industry. 
 
-<br>
+👨‍💻 I am passionate about *Blockchain* technology, *AR/VR* and recently have a new-found crazy interest in *DevOps* and *Cloud Native Engineering*! 
+
+Besides these, I watch basketball 🏀 and play some music 🎸
 
 
-<!-- https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif -->
-<!-- <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" /> -->
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=PurneswarPrasad&show_icons=true&theme=radical&layout=compact">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PurneswarPrasad&hide=css,html&theme=tokyonight&layout=compact">
+</p>
 
- - 📫 How to reach me: [abhishekmaira1999@gmail.com](mailto:abhishekmaira1999@gmail.com);
- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/)
+
+<!--  - 📫 How to reach me: [prasad.sonu786@gmail.com](mailto:prasad.sonu786@gmail.com) -->
+ <!-- - 🔗 My website: [https://www.abhishekmaira.com/](https://www.abhishekmaira.com/) -->
  
  <br>
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=AbhishekMaira10" alt="AbhishekMaiara10" /> </p>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=PurneswarPrasad" alt="PurneswarPrasad" /> </p>
  
  </br>
 
-**Languages and Tools:**
+### Languages:
 <br>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+### Data Analysis Tools:
+<br>
+
+<code><img height="40" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/2560px-Pandas_logo.png?raw=true"></code>
+<code><img height="40" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/1200px-NumPy_logo_2020.png?raw=true"></code>
+<code><img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/t6pChQJv_400x400.png?raw=true"></code>
+<code><img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/seaborn.png?raw=true"></code>
+
+### Machine Learning:
+<br>
+
+<code><img height="40" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/1200px-Scikit_learn_logo_small.svg.png?raw=true"></code>
+<code><img height="60" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/TensorFlow%202.0%20Logo.png?raw=true"></code>
 
 ---
-### 📢 Find me elsewhere
+### 📢 Coding Platform
 <p align="left">
-  <a href="https://www.codechef.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codechef.svg" alt="codechef" style="vertical-align:top; margin:4px">
+  
+  <a href="https://www.hackerrank.com/purneswar">
+    <img height="50" src="https://github.com/PurneswarPrasad/AbhishekMaira10/blob/master/Resources/svg/220px-HackerRank_Icon-1000px.png?raw=true" alt="hackerrank" style="vertical-align:top; margin:4px">
   </a>&nbsp;&nbsp;&nbsp;
   
-  <a href="https://leetcode.com/abhishekmaira1999/">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/leetcode.svg" alt="leetcode" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <a href="https://www.hackerrank.com/abhishekmaira191">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/hackerrank.svg" alt="hackerrank" style="vertical-align:top; margin:4px">
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <a href="https://www.codewars.com/users/abhimaira_10">
-    <img src="https://raw.githubusercontent.com/AbhishekMaira10/AbhishekMaira10/master/Resources/svg/codewars.svg" alt="codewars" style="vertical-align:top; margin:4px">
-  </a> &nbsp;&nbsp;&nbsp;
 </p>
 
 <hr>
 
-<details>
-<summary>📈 My GitHub Stats</summary>
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbhishekMaira10&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+### 🔥 Some of my best works
 
-</details>
 
 </br>
 
-<a href="https://github.com/AbhishekMaira10/COVID-19-Tracker" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=COVID-19-Tracker&theme=dracula" />
+<a href="https://github.com/PurneswarPrasad/sigmaHacks-proj-learnSmart" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PurneswarPrasad&repo=sigmaHacks-proj-learnSmart&theme=dracula" />
 </a>
-<a href="https://github.com/AbhishekMaira10/deldrone" target="_blank">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekMaira10&repo=deldrone&theme=dracula" />
+<a href="https://github.com/PurneswarPrasad/Good-python-code-samples" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PurneswarPrasad&repo=Good-python-code-samples&theme=dracula" />
+</a>
+<a href="https://github.com/PurneswarPrasad/Data-visualisations-in-Python" target="_blank">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PurneswarPrasad&repo=Data-visualisations-in-Python&theme=dracula" />
 </a>
 <div align="center">
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by starring the repos of your choice!
 </div>
+
